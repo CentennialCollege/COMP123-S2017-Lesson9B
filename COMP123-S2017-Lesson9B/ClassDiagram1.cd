@@ -36,6 +36,14 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
+  <Class Name="COMP123_S2017_Lesson9B.SuperVillain">
+    <Position X="6.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>SuperVillain.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
   <Interface Name="COMP123_S2017_Lesson9B.IHasKarma">
     <Position X="9.25" Y="1.25" Width="1.75" />
     <TypeIdentifier>
@@ -44,7 +52,7 @@
     </TypeIdentifier>
   </Interface>
   <Interface Name="COMP123_S2017_Lesson9B.IHasMalice">
-    <Position X="3.75" Y="4" Width="1.5" />
+    <Position X="3.25" Y="3.75" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IHasMalice.cs</FileName>
